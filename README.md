@@ -1,7 +1,7 @@
 # PrintMore
 
-Imprima dezenas de PDFs, documentos do Word, planilhas do Excel, imagens e arquivos ZIP de uma vez no Windows, na ordem
-certa, sem abrir um por um.
+Imprima dezenas de PDFs, documentos do Word, planilhas do Excel, apresentações do PowerPoint, imagens, fotos do iPhone
+e arquivos ZIP de uma vez no Windows, na ordem certa, sem abrir um por um.
 
 ## Baixar
 
