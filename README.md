@@ -19,6 +19,8 @@ Funciona no Windows 10 e no Windows 11 (64 bits). Não precisa instalar mais nad
 Depois de instalado, o PrintMore aparece no menu Iniciar. Para mandar arquivos direto do Explorador de Arquivos,
 clique com o botão direito neles e use **Mostrar mais opções → Enviar para → PrintMore**.
 
+Da versão 1.3.0 em diante, o PrintMore avisa quando sai uma versão nova: é só clicar em **Atualizar** no aviso.
+
 ## Versões anteriores
 
 Todas as versões estão em [Releases](https://github.com/lucasQuerino/printmore/releases).
